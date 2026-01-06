@@ -1,0 +1,3 @@
+.flipit {
+  transform: scaleX(-1);
+}

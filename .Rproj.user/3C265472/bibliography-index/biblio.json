@@ -1,0 +1,508 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1080/17489725.2021.1887526",
+            "ISSN": "1748-9725, 1748-9733",
+            "URL": "https://www.tandfonline.com/doi/full/10.1080/17489725.2021.1887526",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Järv",
+                    "given": "Olle"
+                },
+                {
+                    "family": "Tominga",
+                    "given": "Ago"
+                },
+                {
+                    "family": "Müürisepp",
+                    "given": "Kerli"
+                },
+                {
+                    "family": "Silm",
+                    "given": "Siiri"
+                }
+            ],
+            "container-title": "Journal of Location Based Services",
+            "id": "jarv_impact_2021",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "page": "169-197",
+            "title": "The impact of COVID-19 on daily lives of transnational people based on smartphone data: Estonians in Finland",
+            "title-short": "The impact of COVID-19 on daily lives of transnational people based on smartphone data",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.1002/psp.2557",
+            "ISSN": "1544-8444, 1544-8452",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1002/psp.2557",
+            "abstract": "Abstract International mobility has radically changed during the COVID‐19 pandemic. Among all types of families, transnational families might have particularly suffered in 2020 during lockdowns that restricted international visits to family members. This paper focuses on the life satisfaction of skilled migrants living in Switzerland before and during the COVID‐19 pandemic. In particular, we focus on those who live long‐distance transnational relationships with other family members. We investigate the impact of the COVID‐19 pandemic on self‐reported life satisfaction using the Swiss Migration‐Mobility Survey (MMS). We apply panel analyses using random effects over three waves of the MMS. We found that the COVID‐19 crisis negatively affected recently arrived migrants’ well‐being in Switzerland in 2020. However, migrants in transnational arrangements with children abroad show higher levels of life satisfaction in 2020, in comparison with migrant non‐transnational families. When interacted with gender, this improvement of life satisfaction concerns mostly men, while women in transnational partnerships report a significantly lower level of life satisfaction in 2020.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Gerber",
+                    "given": "Roxane"
+                },
+                {
+                    "family": "Ravazzini",
+                    "given": "Laura"
+                }
+            ],
+            "container-title": "Population, Space and Place",
+            "id": "gerber_life_2022",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8
+                    ]
+                ]
+            },
+            "page": "e2557",
+            "title": "Life satisfaction among skilled transnational families before and during the COVID‐19 outbreak",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1016/j.tra.2023.103582",
+            "ISSN": "09658564",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0965856423000022",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Hintermann",
+                    "given": "Beat"
+                },
+                {
+                    "family": "Schoeman",
+                    "given": "Beaumont"
+                },
+                {
+                    "family": "Molloy",
+                    "given": "Joseph"
+                },
+                {
+                    "family": "Schatzmann",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Tchervenkov",
+                    "given": "Christopher"
+                },
+                {
+                    "family": "Axhausen",
+                    "given": "Kay W."
+                }
+            ],
+            "container-title": "Transportation Research Part A: Policy and Practice",
+            "id": "hintermann_impact_2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        3
+                    ]
+                ]
+            },
+            "page": "103582",
+            "title": "The impact of COVID-19 on mobility choices in Switzerland",
+            "type": "article-journal",
+            "volume": "169"
+        },
+        {
+            "DOI": "10.1186/s40878-023-00331-6",
+            "ISSN": "2214-594X",
+            "URL": "https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-023-00331-6",
+            "abstract": "Abstract Since the beginning of the pandemic in 2020, people have been worried about COVID-19. As one of the risk groups, persons aged 65 and older are especially vulnerable. Additionally, minorities and migrants are hit harder by the pandemic than natives. Using data from the TransAge survey, a study including over 3000 older persons (65+) living in Switzerland and Italy, we show that the levels of worry about the pandemic are significantly higher among Italian international migrants living in Switzerland than among Swiss natives. We are not able to fully explain the difference using sociodemographic variables, the COVID-19 situation at the time of the interview, and international migrants’ transnationalism behavior. Nevertheless, transnationalism explains a large part of the difference in worry between the two groups and our study sheds light on the importance of two specific transnational aspects, having Swiss nationality and voting behavior, for the prevention of elevated levels of worry of international migrants.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Ludwig-Dehm",
+                    "given": "Sarah M."
+                },
+                {
+                    "family": "Dones",
+                    "given": "Iuna"
+                },
+                {
+                    "family": "Ciobanu",
+                    "given": "Ruxandra Oana"
+                }
+            ],
+            "container-title": "Comparative Migration Studies",
+            "id": "ludwig-dehm_between_2023",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4
+                    ]
+                ]
+            },
+            "page": "8",
+            "title": "Between here and there: Comparing the worry about the pandemic between older Italian international migrants and natives in Switzerland",
+            "title-short": "Between here and there",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1007/978-3-030-05671-1_11",
+            "ISBN": "978-3-030-05670-4 978-3-030-05671-1",
+            "URL": "https://link.springer.com/10.1007/978-3-030-05671-1_11",
+            "abstract": "Abstract Transnational studies have been in vogue for the past two decades. Nevertheless, there remain important knowledge gaps concerning migrants’ transnational formations. First, most of the literature relies on qualitative case studies. The few existing quantitative studies have shown that transnationality is far from being a “lifestyle” and that factors other than individual preferences are at play. Second, most studies in this field focus on one nationally defined group, which renders impossible the elaboration of an overall model of transnationality that goes beyond description. Third, few studies have tried to link the question of transnationality simultaneously to migration and mobility. To address these gaps, we propose here an analysis of migrant transnationality based on the Migration-Mobility Survey. We define transnationality along three dimensions. We make a distinction between transnational (pre-and-post-migration) mobilities, network transnationality and transnational belonging. We use regression models and multiple correspondence analysis to identify the prevalence of transnationality and the main determinants of transnational patterns. The analysis confirms the hypothesis that transnationality can be linear – an “automatic effect” of migration – resource-dependent, but also reactive upon discrimination. Migrant transnationality can simultaneously be a sign of possessing high resources – most importantly, in terms of legal capital, education and economic resources – or of discrimination. Furthermore, our analysis brings to light five ideal-typical configurations of what we call the Migration-Mobility-Transnationality Nexus. Our analysis contributes to this book by investigating the Migration-Mobility-Nexus with respect to transnationality, going beyond the normative ideas of migration and mobility by integrating them analytically into one model.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        17
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Crettaz",
+                    "given": "Eric"
+                },
+                {
+                    "family": "Dahinden",
+                    "given": "Janine"
+                }
+            ],
+            "container-title": "Migrants and Expats: The Swiss Migration and Mobility Nexus",
+            "editor": [
+                {
+                    "family": "Steiner",
+                    "given": "Ilka"
+                },
+                {
+                    "family": "Wanner",
+                    "given": "Philippe"
+                }
+            ],
+            "id": "steiner_how_2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "note": "Series Title: IMISCOE Research Series",
+            "page": "267-291",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "How Transnational are Migrants in Switzerland? An Analysis of the Migration-Mobility-Transnationality Nexus",
+            "title-short": "How Transnational are Migrants in Switzerland?",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1007/978-3-030-05671-1_4",
+            "ISBN": "978-3-030-05670-4 978-3-030-05671-1",
+            "URL": "https://link.springer.com/10.1007/978-3-030-05671-1_4",
+            "abstract": "Abstract Previous research has deepened our understanding of the reasons that both push and pull individuals to leave a place to settle in a new country. However, little is known about individuals who have undertaken multiple international migrations. Based on the Migration-Mobility Survey data, this chapter explores both the migration trajectories and why frequent international movers have arrived in Switzerland. The chapter provides new insights about serial migrants in the European context and contributes to the literature by disentangling the relationships between multiple migrations and individual levels of qualification, origin, family composition, and aspirations to undertake a further migration. This research shows a strong association between level of education and degree of multiple migrations. It also demonstrates an important heterogeneity in migration practices between origins that can be explained not only by individual factors but also by institutional dimensions. In particular, short geographical and cultural distances contribute to reducing the number of international movements. Furthermore, non-EU migrants tend to be particularly mobile and to undertake stepwise trajectories to Switzerland.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Zufferey",
+                    "given": "Jonathan"
+                }
+            ],
+            "container-title": "Migrants and Expats: The Swiss Migration and Mobility Nexus",
+            "editor": [
+                {
+                    "family": "Steiner",
+                    "given": "Ilka"
+                },
+                {
+                    "family": "Wanner",
+                    "given": "Philippe"
+                }
+            ],
+            "id": "steiner_who_2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "note": "Series Title: IMISCOE Research Series",
+            "page": "83-100",
+            "publisher": "Springer International Publishing",
+            "publisher-place": "Cham",
+            "title": "Who Are the Serial Movers? Sociodemographic Profiles and Reasons to Migrate to Switzerland Among Multiple International Migrants",
+            "title-short": "Who Are the Serial Movers?",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1093/migration/mnaf012",
+            "ISSN": "2049-5846",
+            "URL": "https://academic.oup.com/migration/article/doi/10.1093/migration/mnaf012/8139155",
+            "abstract": "Abstract Every government in the world introduced international travel restrictions in response to the COVID-19 pandemic. For the most part, these restrictions did not take the form of blanket entry bans, but rather acted as human selection mechanisms, with states refusing entry to most people while granting dedicated exemptions to others. This article addresses two interconnected questions: Who was granted entry, and on what basis? Drawing on new data capturing entry bans and selective exemptions in 212 countries and territories worldwide, we interrogate the concept of “essential travel” that emerged in the early phase of the pandemic. We find that during the COVID-19 pandemic, states granted exemptions for up to seventeen categories of person, which we use to build a novel typology of the “grounds of entry” applicable in times of emergency: (1) pre-existing ties, (2) instrumental value, and (3) international protection. By analysing the frequency of the seventeen “essential travel” categories, we find that these grounds were prioritised differently, with much greater emphasis on pre-existing ties than on international protection. This indicates that during the pandemic, states prioritised the needs of “their own”, particularly their nationals, over those of vulnerable populations. The article thus highlights both the resilience of nationality and the fragility of asylum as bases for cross-border movement in times of global (health) crisis.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Piccoli",
+                    "given": "Lorenzo"
+                },
+                {
+                    "family": "Jacob-Owens",
+                    "given": "Timothy"
+                }
+            ],
+            "container-title": "Migration Studies",
+            "id": "piccoli_regulating_2025",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025,
+                        4
+                    ]
+                ]
+            },
+            "page": "mnaf012",
+            "title": "Regulating human movement in a global pandemic: “Essential Travel” during COVID-19",
+            "title-short": "Regulating human movement in a global pandemic",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "DOI": "10.1016/j.cities.2017.04.004",
+            "ISSN": "02642751",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0264275116301676",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Chau",
+                    "given": "Huey Shy"
+                },
+                {
+                    "family": "Pelzelmayer",
+                    "given": "Katharina"
+                },
+                {
+                    "family": "Schwiter",
+                    "given": "Karin"
+                }
+            ],
+            "container-title": "Cities",
+            "id": "chau_short-term_2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        6
+                    ]
+                ]
+            },
+            "page": "4-11",
+            "title": "Short-term circular migration and gendered negotiation of the right to the city: The case of migrant live-in care workers in Basel, Switzerland",
+            "title-short": "Short-term circular migration and gendered negotiation of the right to the city",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "DOI": "10.31389/jltc.51",
+            "ISSN": "2516-9122",
+            "URL": "https://journal.ilpnetwork.org/articles/10.31389/jltc.51/",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Leiblfinger",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Prieler",
+                    "given": "Veronika"
+                },
+                {
+                    "family": "Schwiter",
+                    "given": "Karin"
+                },
+                {
+                    "family": "Steiner",
+                    "given": "Jennifer"
+                },
+                {
+                    "family": "Benazha",
+                    "given": "Aranka"
+                },
+                {
+                    "family": "Lutz",
+                    "given": "Helma"
+                }
+            ],
+            "container-title": "Journal of Long Term Care",
+            "id": "leiblfinger_impact_2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10
+                    ]
+                ]
+            },
+            "page": "144-150",
+            "title": "Impact of COVID-19 Policy Responses on Live-In Care Workers in Austria, Germany, and Switzerland",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1163/09763457-bja10083",
+            "ISSN": "0973-9572, 0976-3457",
+            "URL": "https://brill.com/view/journals/bdia/17/3/article-p229_1.xml",
+            "abstract": "Abstract The contribution of this article is to collect and evaluate developed-country citizen-migration motives during the first year of the Covid-19 pandemic (March 2020–March 2021) by concentrating on return and circular migration to the Nordic and Baltic countries. The focus is on trying to understand who returned and why, and if these individuals were likely to stay or engage in further circular migration. In our exploratory study, we engaged with prevailing migration theories to analyse our unique dataset, to ascertain how well existing scholarship might account for and predict migration during a crisis situation. The study makes a valuable contribution to the ongoing discussion on the effect of Covid-19 on migration patterns, especially of highly qualified migrants, and calls for further scholarly investigation into the impact of emotions, social relations and obligations on return and circular migration motivations. This study also reveals how governments with established diaspora policies and initiatives that promote return migration engaged with the returning citizens.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Kļaviņš",
+                    "given": "Didzis"
+                },
+                {
+                    "family": "Birka",
+                    "given": "Ieva"
+                },
+                {
+                    "family": "Stučka",
+                    "given": "Malvīne"
+                }
+            ],
+            "container-title": "Diaspora Studies",
+            "id": "klavins_return_2024",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        3
+                    ]
+                ]
+            },
+            "page": "229-256",
+            "title": "Return and Circular Migration Motives of Nordic and Baltic Citizens during the Covid-19 Pandemic and Diaspora Engagement",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.1002/psp.646",
+            "ISSN": "1544-8444, 1544-8452",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1002/psp.646",
+            "abstract": "Abstract Scholarship on the migration–development nexus has focused on the outcomes of remittances received by the inhabitants of countries in the Global South. This paper argues that this conceptualisation of remittances as one‐way flows obscures the fact that remittances are part of reciprocal social relations. As such, they also entail flows of goods, money, and especially services from countries in the Global South to migrants, or what is called reverse remittances. The paper contributes to emerging literature on reverse remittances by broadening the conceptualisation of reverse remittances and presenting an analysis of their characteristics as well as those of receivers and providers. We find that most remittances from home communities to migrants are in the form of services rendered. These include childcare and helping with migrants’ investments in housing and business. Furthermore, we elaborate on another type of reverse remittance overlooked in the literature: services conducted to help migrants obtain documents to regularise their stays in the host country. The type of reverse remittance received differs for documented and undocumented migrants, and the providers differ according to kin and non‐kin relations. Depending on their significance, reverse remittances can be important in determining whether and how migration can lead to a betterment of people’s lives in the Global South and are therefore relevant for the migration–development nexus, which has heretofore neglected their existence. The analysis is based on a simultaneous matched sample methodology conducted with 131 migrants in the Netherlands and their network members in Ghana, using both quantitative and qualitative analyses. Copyright © 2010 John Wiley & Sons, Ltd.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2025,
+                        11,
+                        18
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mazzucato",
+                    "given": "Valentina"
+                }
+            ],
+            "container-title": "Population, Space and Place",
+            "id": "mazzucato_reverse_2011",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        9
+                    ]
+                ]
+            },
+            "page": "454-468",
+            "title": "Reverse remittances in the migration–development nexus: Two‐way flows between Ghana and the Netherlands",
+            "title-short": "Reverse remittances in the migration–development nexus",
+            "type": "article-journal",
+            "volume": "17"
+        }
+    ],
+    "project_biblios": []
+}
