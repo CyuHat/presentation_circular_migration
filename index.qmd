@@ -4,6 +4,9 @@ authors:
   - name: "Hategekimana Vestin" 
     affiliation: "University of Geneva"
     email: "vestin.hategekimana@unige.ch"
+  - name: "Ravazzini Laura"
+    affiliation: "University of Neuchâtel"
+    email: "laura.ravazzini@unine.ch"
 format: 
   revealjs:
     incremental: true
